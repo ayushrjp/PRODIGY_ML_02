@@ -55,4 +55,4 @@ PRODIGY_ML_02/
 Helps identify optimal number of clusters
 
 ###  Cluster Visualization
-Groups customers based on income & spending score
+Groups customers based on income & spending 
